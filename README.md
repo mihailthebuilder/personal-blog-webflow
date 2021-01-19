@@ -1,6 +1,6 @@
 # Personal Blog in Webflow
 
-A personal blog site built with [Webflow's CMS plan](https://webflow.com/pricing#site).
+A personal blog site built with [Webflow's CMS plan](https://webflow.com/pricing#site). Link to [live site](https://mihail-the-builder.webflow.io/).
 
 **Note:** This repo only contains a description of the project. [Click here](https://preview.webflow.com/preview/mihail-the-builder?utm_medium=preview_link&utm_source=dashboard&utm_content=mihail-the-builder&preview=8b4bb73ca7c3c8348a018072273cd1b8&mode=preview) if you'd like to copy the project in Webflow.
 
