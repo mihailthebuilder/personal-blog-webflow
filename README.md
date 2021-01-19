@@ -6,11 +6,11 @@ A personal blog site built with [Webflow's CMS plan](https://webflow.com/pricing
 
 # How it works
 
-The landing page renders the first 5 blog posts I have published. For each of them, I show a title, publication date, headline and a "Read More" link.
+The landing page renders the first 5 blog posts I have published. For each of them, I show a title, publication date, headline and a `Read More` link.
 
 ![landing](./demo/landing.gif)
 
-Clicking the "Read More" link redirects the user to the article's page. There's a range of content placed inside the articles, such as:
+Clicking the `Read More` link redirects the user to the article's page. There's a range of content placed inside the articles, such as:
 - links to websites and GitHub repos at the top
 - GIFs
 - YouTube videos demonstrating certain points
@@ -18,10 +18,10 @@ Clicking the "Read More" link redirects the user to the article's page. There's 
 
 ![article](./demo/article.gif)
 
-There's a "More Posts" button at the bottom of the landing page. When you click it, you'll be redirected to another page that has all of the articles. This page looks nearly identical to the previous one.
+There's a `More Posts` button at the bottom of the landing page. When you click it, you'll be redirected to another page that has all of the articles. This page looks nearly identical to the previous one.
 
 ![more posts](./demo/more-posts.gif)
 
-Last but not least, the website has a "Contact Me" page with a simple form:
+Last but not least, the website has a `Contact Me` page with a simple form:
 
 ![contact](demo/contact.gif)
